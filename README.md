@@ -1,5 +1,6 @@
 # PowerBI_Indian_EV-Market_Analysis
 This is a study of the Indian electric vehicle market.
+
 **1. **Problem Statement****
 AtliQ Motors is a major automotive player from the USA specializing in electric vehicles.
 While they have captured 25% of the EV market in North America, their presence in India is still small—less than 2% market share.
@@ -29,6 +30,7 @@ CAGR tells us how much something has grown each year over a period of time on av
 For example-Imagine you invest ₹1,000 in a business. After 3 years, your investment becomes ₹1,331.
 You want to know: "How much did it grow each year?"
 CAGR = [(Ending Value / Beginning Value) ^ (1 / Number of Years)] – 1
+
 CAGR = [(1331 / 1000) ^ (1 / 3)] - 1
 = (1.331 ^ 0.3333) - 1
 = 1.10 - 1
