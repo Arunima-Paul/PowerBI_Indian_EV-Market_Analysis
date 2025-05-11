@@ -1,6 +1,9 @@
 # PowerBI_Indian_EV-Market_Analysis
 This is a study of the Indian electric vehicle market.
 
+Live Dashboard Link- https://app.powerbi.com/groups/me/reports/6104004c-75b5-4621-976b-b10e5ef7201f/b0ee1513ad384a06cde9?experience=power-bi
+Video Presentation Link- https://youtu.be/o0mMEvgVUJ0
+
 **1. **Problem Statement-****
 AtliQ Motors is a major automotive player from the USA specializing in electric vehicles.
 While they have captured 25% of the EV market in North America, their presence in India is still small—less than 2% market share.
@@ -198,7 +201,7 @@ Source:
 •	Target two-wheelers first for mass adoption.
 •	This offers faster ROI and access to a broader Indian market (80% of EV buyers are purchasing two-wheelers).
 
-** Recommendation 3: Aggressive Urban Focus with Smart Branding-**
+**Recommendation 3: Aggressive Urban Focus with Smart Branding-**
 •	Launch in Delhi, Mumbai, and Bangalore with emphasis on: 
 o	Cost savings,
 o	Environmental benefits,
@@ -213,7 +216,7 @@ For manufacturing base Gujarat stands out as the ideal location due to:
 •	An existing EV ecosystem with Tata, MG, and BYD plants already there,
 •	High ease of doing business rankings,
 •	Substantial government subsidies for greenfield projects.
-TamilNadu would be a strong alternative, especially if targeting South India dominance.
+TamilNadu would be a strong alternative for targeting South India dominance.
 
 **Brand Ambassador**
 For our brand ambassador, I recommend Virat Kohli as he:
@@ -228,7 +231,7 @@ For our brand ambassador, I recommend Virat Kohli as he:
 2. By focusing on states with high EV penetration, starting with premium segments and gradually expanding to mass markets,
    they can establish a strong foothold in India.
    Starting manufacturing in Gujarat and partnering with the right brand ambassador will further enhance the chances of success.
-3.The road ahead is electric and AtliQ Motors is well-positioned to be a significant player in India's EV journey.
+3. The road ahead is electric and AtliQ Motors is well-positioned to be a significant player in India's EV journey.
 
 --End of the Analysis--
 
