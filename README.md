@@ -32,9 +32,13 @@ You want to know: "How much did it grow each year?"
 CAGR = [(Ending Value / Beginning Value) ^ (1 / Number of Years)] – 1
 
 CAGR = [(1331 / 1000) ^ (1 / 3)] - 1
+
 = (1.331 ^ 0.3333) - 1
+
 = 1.10 - 1
+
 = 0.10 or 10%
+
 The CAGR would be 10% per year. So, even if some years were better or worse than others, the average yearly growth was 10% per year.
 
 **Why is CAGR so useful in our EV analysis? 
@@ -57,6 +61,7 @@ Let's see what is in the 2 Wheeler category- CAGR from 2022-2024:
 •	OLA ELECTRIC leads with 373.22% CAGR
 •	TVS (330.80%) and BAJAJ (285.65%) show strong growth
 •	ATHER (132.04%) and OTHERS (77.89%) have more moderate growth rates
+
 **•	It aligns similarly with the sales volume.**
 
 
@@ -64,4 +69,47 @@ Let's see what is in the 2 Wheeler category- CAGR from 2022-2024:
 Looking at monthly sales patterns, we see peak EV sales in March, with another spike in October and November. 
 Sales typically dip in July-August and January.
 The quarterly chart shows consistent growth from Q1 2022 through Q4 2024, with Q4 2024 reaching 320,000 units—the highest in the period. 
+
+**7. Top 5 4W Makers Quarterly Performance:**
+•	Tata Motors (pink line) shows the strongest growth trajectory, reaching 32.7K units by the end of the period
+•	Mahindra & Mahindra (orange line) started strong but has shown a slight decline from its peak.
+•	MG Motor (red) has shown modest but steady growth
+•	BYD India (blue) and Hyundai Motor (light blue) show slower growth but remain consistent.
+
+**8. Geographic Opportunities: Where are EVs Thriving?**
+Now, let's look at where in India EVs are gaining the most traction.
+
+
+![EV_2](https://github.com/user-attachments/assets/23775bf1-1f42-4149-b84f-d7b0114eed3a)
+
+Top states by EV penetration in 2024:
+1.	Goa leads with 13.75% (17.99% for 2-wheelers, 4.25% for 4-wheelers)
+2.	Kerala follows with 11.59% (13.52% for 2-wheelers, 5.76% for 4-wheelers)
+3.	Karnataka at 10.18% (11.57% for 2-wheelers, 4.26% for 4-wheelers)
+4.	Maharashtra at 8.60% (10.07% for 2-wheelers, 2.96% for 4-wheelers)
+5.	Delhi at 7.71% (9.40% for 2-wheelers, 4.29% for 4-wheelers)
+
+What's interesting is that 2-wheeler penetration is consistently higher than 4-wheeler penetration across most states.
+The national average shows 5.36% penetration for 2-wheelers and 2.30% for 4-wheelers.
+
+When we look at which states have seen the biggest increases in penetration from 2022-2024, 
+Goa tops the list again with a 10.08% increase, followed by Kerala at 9.61%, Karnataka at 5.90%, Maharashtra at 5.69%, and Chandigarh at 5.26%.
+
+For CAGR, Meghalaya leads at 28.47%, followed by Goa at 27.41%, Karnataka at 25.28%, Delhi at 22.88% and Rajasthan at 21.50%.
+This shows that northeastern and smaller states like Meghalaya and Goa are growing fast percentage-wise, 
+though likely from a small base, while larger markets like Karnataka and Delhi show strong absolute growth.
+
+**9. Our map visualization reveals several regional patterns:**
+•	Western India (Maharashtra, Gujarat) shows high EV adoption.
+•	Southern India (Karnataka, Kerala, Tamil Nadu) demonstrates strong penetration.
+•	Northern India is mixed, with Delhi showing strong adoption but surrounding states lagging.
+•	Eastern and Northeastern states generally show lower adoption rates but impressive growth percentages.
+What we're seeing is that both small states and major metropolitan areas are embracing EVs, 
+albeit for potentially different reasons—ranging from environmental concerns to favorable state policies.
+
+**10. EV Growth Projection Analysis: India 2022-2030**
+Looking at the future, our projections for the Indian EV market are extremely promising. 
+The market is expected to reach 54.21 million sales by 2030 representing substantial growth in EV adoption.
+
+
 
