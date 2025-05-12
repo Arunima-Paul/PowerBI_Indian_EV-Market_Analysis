@@ -2,7 +2,7 @@
 This resume project is an overview of the Electric Vehicle—or EV—market in India. 
 In this project I have discussed how the market is growing, what’s driving it and where the opportunities lie.
 
-Live Dashboard Link- https://app.powerbi.com/groups/me/reports/6104004c-75b5-4621-976b-b10e5ef7201f/b0ee1513ad384a06cde9?experience=power-bi
+Live Dashboard Link- https://app.powerbi.com/groups/me/reports/6104004c-75b5-4621-976b-b10e5ef7201f/735692fae673d2112438?experience=power-bi
 
 Video Presentation Link- https://youtu.be/o0mMEvgVUJ0
 
