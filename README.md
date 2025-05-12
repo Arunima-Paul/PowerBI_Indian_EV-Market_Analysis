@@ -1,5 +1,6 @@
 # PowerBI_Indian_EV-Market_Analysis
-This is a study of the Indian electric vehicle market.
+This resume project is an overview of the Electric Vehicle—or EV—market in India. 
+In this project I have discussed how the market is growing, what’s driving it and where the opportunities lie.
 
 Live Dashboard Link- https://app.powerbi.com/groups/me/reports/6104004c-75b5-4621-976b-b10e5ef7201f/b0ee1513ad384a06cde9?experience=power-bi
 
@@ -236,6 +237,6 @@ For our brand ambassador, I recommend Virat Kohli as he:
 
 --End of the Analysis--
 
-Dataset obtained from Codebasics Resume Project Challenge.
+Dataset obtained from Codebasics Resume Project Challenge #12.
 
 
